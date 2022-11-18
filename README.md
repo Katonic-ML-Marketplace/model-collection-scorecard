@@ -1,4 +1,4 @@
-# Behavior Scorecard
+# Collection Scorecard
 
 ## Description
 Collection Scorecard determines willingness to pay back a loan after defaulting. 
